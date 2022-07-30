@@ -1,0 +1,11 @@
+{
+  "name": "breakingbad_api",
+  "version": "1.0.0",
+  "description": "This is a db or api of breaking bad",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Riandry Connor (Rdeveloper)",
+  "license": "ISC"
+}
